@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.vscode/
+hw2_dates.py
+hw2tests.py
+hw3_Bulatov.py
+hw3_tests.py
+hw4_Bulatov.py
+Булатов_hw2_git.py
+дз1.py
+commits.txt
